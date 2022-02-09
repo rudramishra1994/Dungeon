@@ -1,0 +1,109 @@
+/Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=62231:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/rudramishra/Documents/PDP assignments and projects/Primates/out/production/Primates Driver
+Welcome to the Jungle Sanctuary
+List of Primates after adding to the sanctuary
+-------------------------------------------------------
+ Primate: aron Location : Isolation3
+ Primate: halle Location : Isolation6
+ Primate: henry Location : Isolation7
+ Primate: jack Location : Isolation0
+ Primate: jackie Location : Isolation1
+ Primate: jill Location : Isolation2
+ Primate: john Location : Isolation5
+ Primate: johnie Location : Isolation4
+ Primate: mack Location : Isolation8
+ Primate: mackienzie Location : Isolation9
+ Primate: willa Location : Isolation10
+ Primate: wille Location : Isolation12
+ Primate: willf Location : Isolation15
+ Primate: willi Location : Isolation11
+ Primate: willo Location : Isolation13
+ Primate: willq Location : Isolation14
+After Removing mackienzie and Jack
+-------------------------
+ Primate: aron Location : Isolation3
+ Primate: halle Location : Isolation6
+ Primate: henry Location : Isolation7
+ Primate: jackie Location : Isolation1
+ Primate: jill Location : Isolation2
+ Primate: john Location : Isolation5
+ Primate: johnie Location : Isolation4
+ Primate: mack Location : Isolation8
+ Primate: willa Location : Isolation10
+ Primate: wille Location : Isolation12
+ Primate: willf Location : Isolation15
+ Primate: willi Location : Isolation11
+ Primate: willo Location : Isolation13
+ Primate: willq Location : Isolation14
+Species wise Location List
+---------------------------------
+ Primate: Drill Location : [Isolation2, Isolation3]
+ Primate: Howler Location : [Isolation4, Isolation5]
+ Primate: Saki Location : [Isolation6, Isolation7]
+ Primate: Squirrel Location : [Isolation1, Isolation8, Isolation10, Isolation11, Isolation12, Isolation13, Isolation14, Isolation15]
+Location List for a specific species
+-----------------------------------------
+ Primate: Squirrel Location : [Isolation1, Isolation8, Isolation10, Isolation11, Isolation12, Isolation13, Isolation14, Isolation15]
+Shopping List 
+-----------------
+{fruits=4500, insects=500, nuts=500, sap=500, seeds=1000}
+List of Primates after moving primates to enclosures
+----------------------------------------------------------
+ Primate: aron Location : Enclosure2
+ Primate: halle Location : Enclosure3
+ Primate: henry Location : Isolation7
+ Primate: jackie Location : Isolation1
+ Primate: jill Location : Isolation2
+ Primate: john Location : Isolation5
+ Primate: johnie Location : Isolation4
+ Primate: mack Location : Isolation8
+ Primate: willa Location : Isolation10
+ Primate: wille Location : Enclosure1
+ Primate: willf Location : Isolation15
+ Primate: willi Location : Isolation11
+ Primate: willo Location : Enclosure1
+ Primate: willq Location : Enclosure1
+Species wise Location List after moving primates to enclosures
+---------------------------------
+ Primate: Drill Location : [Isolation2, Enclosure2]
+ Primate: Howler Location : [Isolation4, Isolation5]
+ Primate: Saki Location : [Isolation7, Enclosure3]
+ Primate: Squirrel Location : [Isolation1, Isolation8, Isolation10, Isolation11, Isolation15, Enclosure1]
+Information List of Houses in Sanctuary
+----------------------------------------------------------
+ HouseId: Enclosure0 Type : ENCLOSURE
+ HouseId: Enclosure1 Type : ENCLOSURE
+ HouseId: Enclosure2 Type : ENCLOSURE
+ HouseId: Enclosure3 Type : ENCLOSURE
+ HouseId: Enclosure4 Type : ENCLOSURE
+ HouseId: Enclosure5 Type : ENCLOSURE
+ HouseId: Enclosure6 Type : ENCLOSURE
+ HouseId: Enclosure7 Type : ENCLOSURE
+ HouseId: Enclosure8 Type : ENCLOSURE
+ HouseId: Enclosure9 Type : ENCLOSURE
+ HouseId: Isolation0 Type : ISOLATION
+ HouseId: Isolation1 Type : ISOLATION
+ HouseId: Isolation10 Type : ISOLATION
+ HouseId: Isolation11 Type : ISOLATION
+ HouseId: Isolation12 Type : ISOLATION
+ HouseId: Isolation13 Type : ISOLATION
+ HouseId: Isolation14 Type : ISOLATION
+ HouseId: Isolation15 Type : ISOLATION
+ HouseId: Isolation16 Type : ISOLATION
+ HouseId: Isolation17 Type : ISOLATION
+ HouseId: Isolation18 Type : ISOLATION
+ HouseId: Isolation19 Type : ISOLATION
+ HouseId: Isolation2 Type : ISOLATION
+ HouseId: Isolation3 Type : ISOLATION
+ HouseId: Isolation4 Type : ISOLATION
+ HouseId: Isolation5 Type : ISOLATION
+ HouseId: Isolation6 Type : ISOLATION
+ HouseId: Isolation7 Type : ISOLATION
+ HouseId: Isolation8 Type : ISOLATION
+ HouseId: Isolation9 Type : ISOLATION
+Information of chosen sanctuary
+----------------------------------------------------------
+Name=wille  Sex=male Favourite Food=fruits
+Name=willo  Sex=male Favourite Food=fruits
+Name=willq  Sex=male Favourite Food=fruits
+
+Process finished with exit code 0

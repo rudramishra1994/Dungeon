@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Primates:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Primates_jar</output-path>
+    <root id="archive" name="Primates.jar">
+      <element id="module-output" name="Primates" />
+    </root>
+  </artifact>
+</component>

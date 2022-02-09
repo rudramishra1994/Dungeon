@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"polynomial","l":"ListOfTerm"},{"p":"polynomial","l":"Polynomial"},{"p":"polynomial","l":"PolynomialImpl"},{"p":"test","l":"TestPolynomialImpl"}]
